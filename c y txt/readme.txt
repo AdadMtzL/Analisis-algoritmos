@@ -1,0 +1,1 @@
+para abrir las distintas matrices que se muestran en la linea de fopen en la función main cambie el nombre de m16.txt a m4.txt,m8.txt o cualquirea de los archivos incluidos
